@@ -1,1 +1,1 @@
-# whitepaper
+# Threat Intel NOW whitepaper
